@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+.Inicio {
+    background-color: chocolate;
+    text-align: center;
+    margin: auto;
+    width: 700px;
+}
+
+h1 {
+    padding-top: 10px;
+    padding: 10px;
+}
+
+p {
+    background-color: coral;
+    text-align: justify;
+}
